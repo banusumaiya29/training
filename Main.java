@@ -14,6 +14,7 @@ public class Main {
 	 System.out.println("MySedan Price is"+ mySedan.getSalePrice());
 	 System.out.println("MyFord1 Price is"+ myFord1.getSalePrice());
 	 System.out.println("MyFord2 Price is"+ myFord2.getSalePrice());
+         System.out.println("ford price is"+myFord1.getSalePrice());
 	 System.out.println("MyCar Price is"+ h.getSalePrice());
 }
 }
